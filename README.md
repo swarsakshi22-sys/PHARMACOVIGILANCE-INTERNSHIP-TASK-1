@@ -1,0 +1,2 @@
+# PHARMACOVIGILANCE-INTERNSHIP-TASK-1
+ADR Identification Basics
